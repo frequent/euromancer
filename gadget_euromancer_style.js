@@ -147,7 +147,7 @@
           'class': "lang-wrapper"
         }, [
           domsugar('i', {
-            'class': "sven-lang sven-lang-" + language
+            'class': "euromancer-lang euromancer-lang-" + language
           }),
           domsugar('span', {
             'class': "navbar-language",
