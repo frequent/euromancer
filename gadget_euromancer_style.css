@@ -143,6 +143,9 @@
 .fa-youtube:before {
     content: "\f167";
 }
+.fa-twitch:before {
+    content: "\f1e8";
+}
 
 
 html,
@@ -155,8 +158,8 @@ body {
 
 body {
   font-family: 'Ubuntu', 'source_sans_proregular', 'Arial', 'Helvetica', sans-serif;
-  color: #211735;
   overflow-x: hidden;
+  background-color: #20110d;
 }
 
 *,
@@ -192,7 +195,6 @@ div[data-gadget-url$="gadget_euromancer_style.html"] header > div {
   width: 100%;
   padding-left: 15px;
   padding-right: 15px;
-  /* position: relative; */
   z-index: 20;
 }
 div[data-gadget-url$="gadget_euromancer_style.html"] main {
@@ -217,7 +219,7 @@ div[data-gadget-url$="gadget_euromancer_style.html"] header a {
   font-size: 1.25em;
   line-height: 30px;
   text-decoration: none;
-  color: #502379;
+  color: #ffffff;
 }
 div[data-gadget-url$="gadget_euromancer_style.html"] header > a > img,
 div[data-gadget-url$="gadget_euromancer_style.html"] header > a > svg {
