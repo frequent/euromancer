@@ -279,7 +279,7 @@ div[data-gadget-url$="gadget_euromancer_style.html"] header section ul li:hover 
   color: #ffffff;
 }
 div[data-gadget-url$="gadget_euromancer_style.html"] header nav ul li a {
-  color: #502379;
+  color: #ffffff;
   padding: 8px 20px;
 }
 div[data-gadget-url$="gadget_euromancer_style.html"] header nav .navbar-language {
@@ -429,7 +429,7 @@ div[data-gadget-url$="gadget_euromancer_style.html"] header .hamburger-menu {
     font-size: 24px;
   }
   div[data-gadget-url$="gadget_euromancer_style.html"] header nav {
-    background: white;
+    background: #20110d;
     bottom: 0;
     left: 0;
     opacity: 0;
@@ -463,7 +463,7 @@ div[data-gadget-url$="gadget_euromancer_style.html"] header .hamburger-menu {
   right: 1em;
 }
 div[data-gadget-url$="gadget_euromancer_style.html"] header .hamburger-menu > span {
-  background: /* #000000; */ #333333;
+  background: #ffffff;
   display: block;
   height: 3px;
   margin: 5px 0;
@@ -490,7 +490,7 @@ div[data-gadget-url$="gadget_euromancer_style.html"] footer section > h2 {
   margin: 2em 0 0 0;
 }
 div[data-gadget-url$="gadget_euromancer_style.html"] footer section h3 {
-  color: #502379;
+  color: #ffffff;
 }
 div[data-gadget-url$="gadget_euromancer_style.html"] footer section ul {
   width: 100%;
@@ -566,7 +566,7 @@ div[data-gadget-url$="gadget_euromancer_style.html"] footer section > div p {
   padding: 0;
 }
 div[data-gadget-url$="gadget_euromancer_style.html"] footer section > div > ul:last-of-type {
-  background: #ffffff;
+  background: #20110d;
   padding: 3em 8em 3em;
   text-align: center;
   align-items: center;
@@ -585,13 +585,14 @@ div[data-gadget-url$="gadget_euromancer_style.html"] footer section > div > ul:l
 }
 div[data-gadget-url$="gadget_euromancer_style.html"] footer section > div > ul:last-of-type ul li a {
   text-decoration: none;
+  color: #ffffff;
 }
 div[data-gadget-url$="gadget_euromancer_style.html"] footer svg {
   width: 13em;
   height: auto;
 }
 div[data-gadget-url$="gadget_euromancer_style.html"] footer section > div > ul:last-of-type h3 + a {
-  color: #502379;
+  color: #ffffff;
   padding: 0.75em 1em;
   text-decoration: none;
   display: inline-block;
